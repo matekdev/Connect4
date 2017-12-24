@@ -1,0 +1,65 @@
+{
+  "name": "Connect 4",
+  "assets": [
+    {
+      "id": "14",
+      "name": "GameScene",
+      "type": "scene"
+    },
+    {
+      "id": "27",
+      "name": "StartScene",
+      "type": "scene"
+    },
+    {
+      "id": "28",
+      "name": "cover",
+      "type": "sprite"
+    },
+    {
+      "id": "16",
+      "name": "boardgame",
+      "type": "sprite"
+    },
+    {
+      "id": "15",
+      "name": "GameLogic",
+      "type": "script"
+    },
+    {
+      "id": "11",
+      "name": "Normal",
+      "type": "font"
+    },
+    {
+      "id": "19",
+      "name": "playerchip",
+      "type": "sprite"
+    },
+    {
+      "id": "21",
+      "name": "compchip",
+      "type": "sprite"
+    },
+    {
+      "id": "22",
+      "name": "Startgame",
+      "type": "script"
+    },
+    {
+      "id": "24",
+      "name": "chipsound",
+      "type": "sound"
+    },
+    {
+      "id": "25",
+      "name": "boardgame2",
+      "type": "sprite"
+    },
+    {
+      "id": "26",
+      "name": "blue",
+      "type": "sprite"
+    }
+  ]
+}
